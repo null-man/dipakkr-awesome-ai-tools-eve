@@ -63,6 +63,9 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, mu |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export fre |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free |
+| Alors On Danse Video Maker | • Photo→~5s 9:16 AI dance<br>• Quince Classic/Party Groove | • Content Creators<br>• Social Media | [View Tool](https://alorsondansevideo.com) |
+| Bad Times AI | • Photo→~5s 9:16 AI dance<br>• Quince Classic/Party Groove | • Content Creators<br>• Social Media | [View Tool](https://badtimesai.dev) |
+| I Found You in the Crowd AI | • Photo→~5s 9:16 AI dance<br>• Quince Classic/Party Groove | • Content Creators<br>• Social Media | [View Tool](https://ifoundyouinthecrowdai.com) |
 
 ## Audio & Music
 
