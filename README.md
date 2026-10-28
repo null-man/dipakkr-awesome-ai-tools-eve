@@ -60,6 +60,9 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | KDA Firestarter AI Dance | • Photo→13s 21:9 solo AI dance<br>• Independent/unofficial | • Content Creators<br>• Social Media | [View Tool](https://kdafirestarterai.dev) |
 | A2O LITE NEON AI Dance | • Two photos→15s neon duo dance<br>• Reference soundtrack | • Content Creators<br>• Marketers | [View Tool](https://a2oliteai.org) |
 | dime dime baby ai | • Photo→~5s 9:16 AI dance<br>• Quince Classic/Party Groove | • Content Creators<br>• Social Media | [View Tool](https://dimedimebabyai.dev) |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, mu |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export fre |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free |
 
 ## Audio & Music
 
